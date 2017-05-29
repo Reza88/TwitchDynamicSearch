@@ -2,6 +2,10 @@
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
 
+This project comes with a complete codewalkthrough and explanations and could be found at:
+
+https://medium.com/@a_reza88/angular-2-twitchtv-dynamic-search-result-using-angulars-http-service-rxjs-observables-42b9c55a17b8
+
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
